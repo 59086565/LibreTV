@@ -16,7 +16,7 @@ const SITE_CONFIG = {
     name: '李乐乐TV',
     url: 'https://libretv.is-an.org',
     description: '免费在线视频搜索与观看平台',
-    logo: 'image/logo.png',
+    logo: 'image/logo123.png',
     version: '1.0.3'
 };
 
